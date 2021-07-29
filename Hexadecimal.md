@@ -7,7 +7,7 @@ As per from some websites:-
 
 we use hexadecimal numbers is because it provides a more human-friendly representation and is much easier to express binary number representations in hex than it is in any other base number system.
 
-## b) Worldsuppoter :-
+## b) Worldsupporter :-
 
 Hexadecimal numbers are also used to enhance the security of a website. Many developers convert the decimal number to hexadecimal and then save that number to the database. And when they want to retrieve that number, they convert hexadecimal to decimal and then show it to the users. This translation is useful for embedded systems because decimal numbers are used in the embedded systems heavily. 
 
