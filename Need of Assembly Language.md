@@ -1,6 +1,4 @@
-----------------------------------------------------------
 ## **What is Assembly language?**
-----------------------------------------------------------
 
 * **Assembly is a human readable machine language, which is considered as an intermediate language that C compiler uses while compiling C codes.**
 
@@ -10,20 +8,16 @@
 University of London following work with John von Neumann and Herman Goldstine at the Institute for Advanced Study.**
 
 * **To know more about Assembly Language click** [here](https://en.wikipedia.org/wiki/Assembly_language)
-----------------------------------------------------------
 
 ## **Significance of Assembly Language:-** 
-----------------------------------------------------------
 
 * **It comes handy when you're trying to make sense out of any mistake or abnormal feature in programming behaviour.**
 
 * **It also helps when you're trying to understand a program that doesn't have any source code and that too obviously for legal purposes.**
 
 * **It is time efficient, consumes less memory and also helpful in Hardware Manipulation & Processor Instructions.**
----------------------------------------------------------
 
 ## **Why should we learn Assembly language?**
----------------------------------------------------------
 
 * **Learning the Assembly Language is quintessential for programmers.**
 * **Once they learn the language, they will be able to write codes to access registers and easily retrieve memory addresses of printers and values by learning Assembly Language thoroughly.**
@@ -32,4 +26,4 @@ University of London following work with John von Neumann and Herman Goldstine a
 * **The main uses of Assembly Language Programming include:- Coding device drivers, real-time systems, reverse engineering and more.**
 * **One of the major benefits of learning Assembly Language is it helps in manipulating the hardware directly.**
 * **It manages critical issues when it comes to hampered performance and proffers access to special instructions for processors.**
---------------------------------------------------------
+
